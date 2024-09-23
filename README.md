@@ -1,1 +1,1 @@
-# sessions
+# Great Ideas in Computing
